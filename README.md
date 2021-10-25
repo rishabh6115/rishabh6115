@@ -23,7 +23,7 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
 - 🌱 I’m currently learning Web development <br>
 - 👯 I’m looking to collaborate on C++ Projects,Web Dev Projects<br>
 <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about Front-End, C++ Programming,DSA<br>
+- 💬 Ask me about HTML, CSS, C++ Programming,DSA<br>
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns:  -->
 <!-- - ⚡ Fun fact:  -->
