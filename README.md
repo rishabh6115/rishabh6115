@@ -40,9 +40,9 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
 
 <!-- GitHub Contribution Graph -->
 
-<!-- [![Rishabh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishabh6115&theme=gotham)](https://github.com/rishabh6115)
+[![Rishabh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishabh6115&theme=gotham)](https://github.com/rishabh6115)
 
-<hr><br> -->
+<hr><br>
 
 
 
