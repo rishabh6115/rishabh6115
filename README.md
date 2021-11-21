@@ -16,11 +16,11 @@
 <td>
 <h2 align = "center">📖 About Me</h2>
 <h4 align = "center" >
-I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering. I am an open source enthusiast and currently learning full-Stack web development.I also know c++ programming, and currently learning advanced DSA concepts
+I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering
   <br><br>
   <!-- 
 - 🔭 I’m currently working on  --> 
-- 🌱 I’m currently learning Web development <br>
+- 🌱 I’m currently learning React <br>
 - 👯 I’m looking to collaborate on C++ Projects,Web Dev Projects<br>
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about HTML, CSS, C++ Programming,DSA<br>
