@@ -5,7 +5,6 @@
 </p>
 <!-- ![Wave](https://user-images.githubusercontent.com/87887741/138341828-facc7011-6d27-4a88-a791-57fc7e004dd0.gif) -->
 
-<!-- Heading -->
 
 <h1 align = "center"> Hi, I am Rishabh Ranjan !</h1>
 
