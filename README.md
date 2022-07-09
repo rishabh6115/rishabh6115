@@ -19,7 +19,7 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
   <br><br>
   <!-- 
 - 🔭 I’m currently working on  --> 
-- 🌱 I’m currently learning React.js <br>
+- 🌱 I’m currently learning NextJs <br>
 - 👯 I’m looking to collaborate on C++ Projects,Web Dev Projects<br>
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about HTML, CSS, C++ Programming,DSA<br>
