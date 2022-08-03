@@ -132,16 +132,16 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
 <table align = "center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=rishabh6115&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rishabh6115&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh6115&show_icons=true&locale=en&layout=compact&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh6115&show_icons=true&locale=en&layout=compact&theme=radical" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh6115&theme=gotham" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh6115&theme=radical" />
 </p>
 <hr>
 <br>
