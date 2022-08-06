@@ -39,7 +39,7 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
 
 <!-- GitHub Contribution Graph -->
 
-[![Rishabh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishabh6115&theme=gotham)](https://github.com/rishabh6115)
+[![Rishabh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishabh6115&bg_color=000000&line=00FF6E&point=FFFFFF&custom_title=My%20Github%20Contribution%20Graph&area=true&area_color=00FF6E&radius=2&theme=redical)](https://github.com/rishabh6115)
 
 <hr><br>
 
