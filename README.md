@@ -8,18 +8,14 @@
 
 <h1 align = "center"> Hi, I am Rishabh Ranjan !</h1>
 
-<!-- About Me -->
 
-<table>
-<tr>
-<td>
-<h2 align = "center">📖 About Me</h2>
-<h4 align = "center" >
-I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering
+
+<h4>
+I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering, currently in my 3rd year. I am a Full-Stack MERN developer.
   <br><br>
   <!-- 
 - 🔭 I’m currently working on  --> 
-- 🌱 I’m currently learning NextJs <br>
+- 🌱 I’m currently learning NextJS <br>
 - 👯 I’m looking to collaborate on C++ Projects,Web Dev Projects<br>
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about HTML, CSS, C++ Programming,DSA<br>
@@ -27,9 +23,7 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
 <!-- - 😄 Pronouns:  -->
 <!-- - ⚡ Fun fact:  -->
 </h4>
-</td>
-</tr>
-</table>
+
 
 <hr>
 
