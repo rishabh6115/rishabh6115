@@ -11,7 +11,7 @@
 
 
 <h4>
-I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering, currently in my 3rd year. I am a Full-Stack MERN developer.
+I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering, currently in my 4th year. I am a Full-Stack MERN developer.
   <br><br>
   <!-- 
 - 🔭 I’m currently working on  --> 
