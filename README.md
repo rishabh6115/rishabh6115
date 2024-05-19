@@ -129,6 +129,8 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
 </p>
 <hr>
 <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh6115&bg_color=030302&color=f8418b&line=a3a3a3&point=fff0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Connections on Web -->
 
 <h1 align = "center">🔗 Connect With Me</h1>
